@@ -2,7 +2,7 @@
 
 AI agents in crypto sound like sci-fi — but they’re real, they’re working, and they don’t even ask for a salary.
 
-Shoutout to [@CertikQuest](https://x.com/CertikQuest) for inspiring this breakdown.
+Shoutout to [Certik Quest](https://x.com/Certik) for inspiring this breakdown.
 
 Let’s talk about these relentless, logic-driven blockchain robots that just might take your job (and do it better).
 
